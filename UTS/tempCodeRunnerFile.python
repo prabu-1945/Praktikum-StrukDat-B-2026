@@ -1,0 +1,13 @@
+print("""Info Klinik:
+Nama : Klinik Sehat Bersama
+Alamat : Jl. Merdeka No. 10, Pekanbaru
+Telp : 0761-12345
+
+Jenis Penyakit Unik: {'Flu', 'Tifus', 'Maag'}
+Jumlah jenis penyakit: 3
+
+Rekap per penyakit:
+Flu : 2 pasien
+Tifus : 2 pasien
+Maag : 2 pasien
+Penyakit terbanyak: Flu, Tifus, Maag (2 pasien)""")

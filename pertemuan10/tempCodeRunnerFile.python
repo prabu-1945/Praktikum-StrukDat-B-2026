@@ -1,0 +1,8 @@
+
+pw = "kontol"
+print(input("masukkan pw: "))
+
+if pw == pw:
+    print("benar")
+else:
+    print('salah')

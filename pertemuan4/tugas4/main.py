@@ -1,5 +1,5 @@
 from kurs import kurs
-from konverter import idr_ke_mata_uang, mata_uang_ke_idr
+from konverter import idr_ke_mata_uang
 from tabulate import tabulate
 
 def tampilkan_kurs():
